@@ -1,4 +1,3 @@
-layout_spectrum: 0.6266444304492325
 typography_spectrum: 0.3169238946866244
 color:
   brandStrength: 0.05591094261035323
@@ -11,4 +10,6 @@ color:
     - '#F4CB89'
     - '#588C8C'
     - '#011C26'
+layout_spectrum: 0.6266444304492325
 name: LoveArtHate
+title: Explore
